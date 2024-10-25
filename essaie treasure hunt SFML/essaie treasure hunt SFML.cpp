@@ -104,7 +104,7 @@ int main()
 	}
 
 	std::cout << "end" << '\n';
-	std::cin.ignore();
+	//std::cin.ignore();
 	
 	return 0;
 
