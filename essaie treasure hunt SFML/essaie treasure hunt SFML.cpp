@@ -76,18 +76,7 @@ int main()
 		{
 			break;
 		}
-
 		window.display();
-		/*if(treasure_found == true)
-		{
-			
-			break;
-
-		}
-		if(Too_much_Round == true)
-		{
-			break;
-		}*/
 
 	}
 
@@ -104,7 +93,7 @@ int main()
 	}
 
 	std::cout << "end" << '\n';
-	//std::cin.ignore();
+	
 	
 	return 0;
 
